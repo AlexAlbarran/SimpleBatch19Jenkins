@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a246e1b5-2ded-4db3-bb02-8483ba4bc0e2" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
+      <change beforePath="$PROJECT_DIR$/../SDETB19JavaHW" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AlexAlbarran&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AlexAlbarran/SDETJavaBatch19",
+    "accountId": "3defbf3e-b2c7-4fd8-8b87-3952529c6da6"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-15.0.2/lib/src.zip!/java.base/java/util/Scanner.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2cpP9gwCGQHkCJW7qPRR0sjRed9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AnimalTester.executor": "Run",
+    "Application.Animaltester.executor": "Run",
+    "Application.ArrayListTask.executor": "Run",
+    "Application.BankTester.executor": "Run",
+    "Application.BirdTester.executor": "Run",
+    "Application.BrowserTeater3.executor": "Run",
+    "Application.BrowserTester.executor": "Run",
+    "Application.BrowserTester2.executor": "Run",
+    "Application.CalculatorTester.executor": "Run",
+    "Application.Car2Tester.executor": "Run",
+    "Application.CarTester.executor": "Run",
+    "Application.CatTester.executor": "Run",
+    "Application.CreditCardTester.executor": "Run",
+    "Application.DegreeTester.executor": "Run",
+    "Application.DogTester.executor": "Run",
+    "Application.E1.executor": "Run",
+    "Application.E10Arrays.executor": "Debug",
+    "Application.E10LogicalAND.executor": "Run",
+    "Application.E10Loops.executor": "Run",
+    "Application.E10RelationalOp.executor": "Run",
+    "Application.E10String.executor": "Run",
+    "Application.E11Loops.executor": "Run",
+    "Application.E11String.executor": "Run",
+    "Application.E11Switch.executor": "Run",
+    "Application.E12Loops.executor": "Run",
+    "Application.E12String.executor": "Run",
+    "Application.E13String.executor": "Run",
+    "Application.E13StringSplitWords.executor": "Run",
+    "Application.E14StringSplitWords.executor": "Run",
+    "Application.E1Array.executor": "Run",
+    "Application.E1Break.executor": "Run",
+    "Application.E1ConfigReader.executor": "Run",
+    "Application.E1ConfigurationFile.executor": "Run",
+    "Application.E1Exception.executor": "Coverage",
+    "Application.E1Methods.executor": "Run",
+    "Application.E1NestedLoops.executor": "Run",
+    "Application.E1Print.executor": "Run",
+    "Application.E1Scanner.executor": "Run",
+    "Application.E1ShortHandOperators.executor": "Run",
+    "Application.E1String.executor": "Run",
+    "Application.E2.executor": "Run",
+    "Application.E2Array.executor": "Run",
+    "Application.E2Arrays.executor": "Run",
+    "Application.E2Break.executor": "Run",
+    "Application.E2ConfigurationFile.executor": "Run",
+    "Application.E2ExcelReading.executor": "Run",
+    "Application.E2Exception.executor": "Run",
+    "Application.E2IfElseIf.executor": "Debug",
+    "Application.E2Methods.executor": "Run",
+    "Application.E2Scanner.executor": "Run",
+    "Application.E2String.executor": "Run",
+    "Application.E2WhileLoop.executor": "Run",
+    "Application.E2_Arrays.executor": "Run",
+    "Application.E3.executor": "Run",
+    "Application.E3Array.executor": "Run",
+    "Application.E3Arrays.executor": "Run",
+    "Application.E3Break2DArray.executor": "Run",
+    "Application.E3ExcelFile.executor": "Run",
+    "Application.E3ExcelReader.executor": "Run",
+    "Application.E3IfElseIf.executor": "Run",
+    "Application.E3Scanner.executor": "Run",
+    "Application.E3String.executor": "Run",
+    "Application.E3WhileLoop.executor": "Run",
+    "Application.E3_1Array.executor": "Run",
+    "Application.E3_Arrays.executor": "Run",
+    "Application.E4.executor": "Run",
+    "Application.E4Arrays.executor": "Run",
+    "Application.E4ExcelReader.executor": "Run",
+    "Application.E4IfElseIf.executor": "Run",
+    "Application.E4NestedIf.executor": "Run",
+    "Application.E4String.executor": "Run",
+    "Application.E4_2DArrays.executor": "Run",
+    "Application.E4_Arrays.executor": "Run",
+    "Application.E5.executor": "Run",
+    "Application.E5Array.executor": "Run",
+    "Application.E5ArrayEnhanceLoop.executor": "Run",
+    "Application.E5Arrays.executor": "Run",
+    "Application.E5ExcelReader.executor": "Debug",
+    "Application.E5IfElseIf.executor": "Run",
+    "Application.E5IfElseIfPosNeg.executor": "Run",
+    "Application.E5LogicalOp.executor": "Run",
+    "Application.E5Loops.executor": "Run",
+    "Application.E5NestedIf.executor": "Run",
+    "Application.E5String.executor": "Run",
+    "Application.E5_2DArrays.executor": "Run",
+    "Application.E5_Arrays.executor": "Run",
+    "Application.E6.executor": "Run",
+    "Application.E6Array.executor": "Run",
+    "Application.E6ArrayEnhancedLoopAverages.executor": "Run",
+    "Application.E6Arrays.executor": "Run",
+    "Application.E6IfElseIf.executor": "Run",
+    "Application.E6LogicalAnd.executor": "Run",
+    "Application.E6LogicalNot.executor": "Run",
+    "Application.E6Scanner.executor": "Run",
+    "Application.E6String.executor": "Run",
+    "Application.E6_2DArrays.executor": "Debug",
+    "Application.E7.executor": "Run",
+    "Application.E7ArrayEnhancedLoopAverages.executor": "Run",
+    "Application.E7Arrays.executor": "Debug",
+    "Application.E7Scanner.executor": "Run",
+    "Application.E7String.executor": "Run",
+    "Application.E8.executor": "Run",
+    "Application.E8Arrays.executor": "Run",
+    "Application.E8LogicalNot.executor": "Run",
+    "Application.E8LogicalOR.executor": "Run",
+    "Application.E8Loops.executor": "Run",
+    "Application.E8Scanner.executor": "Run",
+    "Application.E8String.executor": "Run",
+    "Application.E9.executor": "Run",
+    "Application.E9Arrays.executor": "Run",
+    "Application.E9Loops.executor": "Run",
+    "Application.E9NestedLoops.executor": "Run",
+    "Application.E9String.executor": "Run",
+    "Application.EScanner.executor": "Run",
+    "Application.EmployeeTester.executor": "Run",
+    "Application.FirstProg.executor": "Run",
+    "Application.GPTester.executor": "Run",
+    "Application.HWDegreeIfElseIf.executor": "Run",
+    "Application.HWDonor.executor": "Run",
+    "Application.HWIfElseIfEvenOdd.executor": "Run",
+    "Application.HWMortgage.executor": "Run",
+    "Application.HWTask7.executor": "Run",
+    "Application.HWnums.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MyDrawing.executor": "Run",
+    "Application.NestedForLoops2.executor": "Run",
+    "Application.NestedForLoops3.executor": "Run",
+    "Application.NestedForLoops4.executor": "Run",
+    "Application.NestedForLoops5MultiplicationTable.executor": "Run",
+    "Application.ParentTester.executor": "Run",
+    "Application.PhoneTester.executor": "Run",
+    "Application.PlayerEx.executor": "Run",
+    "Application.PrinterTester.executor": "Run",
+    "Application.ScannerFirstLastNames.executor": "Run",
+    "Application.ShapeTester.executor": "Run",
+    "Application.Students.executor": "Run",
+    "Application.StudentsTester.executor": "Run",
+    "Application.SyntaxEmployeeTester.executor": "Run",
+    "Application.T1Tester.executor": "Run",
+    "Application.T2CountAlpha.executor": "Run",
+    "Application.T8ArrayList.executor": "Run",
+    "Application.T8_2ArrayList.executor": "Run",
+    "Application.T9NonRepeatingChar.executor": "Run",
+    "Application.Tas2Tester.executor": "Run",
+    "Application.Task1 (1).executor": "Run",
+    "Application.Task1.executor": "Run",
+    "Application.Task1Tester.executor": "Run",
+    "Application.Task1_1.executor": "Run",
+    "Application.Task1_2DArrays.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Task2FindingTheBLargestNum.executor": "Run",
+    "Application.Task2_2DArraysSum.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.Task3Tester.executor": "Run",
+    "Application.Task3_2.executor": "Run",
+    "Application.Task3_2DArray.executor": "Run",
+    "Application.Task4.executor": "Run",
+    "Application.Task5.executor": "Run",
+    "Application.Task5_1.executor": "Debug",
+    "Application.Task6.executor": "Run",
+    "Application.Task6Tester.executor": "Run",
+    "Application.Task7.executor": "Run",
+    "Application.Task7FindingTheBLargestNum.executor": "Run",
+    "Application.Task7Tester.executor": "Run",
+    "Application.Task8.executor": "Run",
+    "Application.Task8ReverseOrder.executor": "Run",
+    "Application.Task8Tester.executor": "Run",
+    "Application.Task9.executor": "Run",
+    "Application.TaskArrays1.executor": "Run",
+    "Application.TaskArrays2.executor": "Run",
+    "Application.TaskArrays3.executor": "Run",
+    "Application.TaskBreak.executor": "Run",
+    "Application.TaskBreak2.executor": "Run",
+    "Application.TaskBreakAndContinue.executor": "Run",
+    "Application.TaskContinue2.executor": "Run",
+    "Application.Teacher.executor": "Run",
+    "Application.Tester.executor": "Run",
+    "Application.Timer.executor": "Run",
+    "Application.UserTester.executor": "Run",
+    "Application.VehicleTester.executor": "Run",
+    "Application.WashAbleTester.executor": "Run",
+    "Application.WebDriverTester.executor": "Run",
+    "Application.helloworld.executor": "Run",
+    "Application.org.example.class15.Task1.executor": "Run",
+    "Application.org.example.class18.AnimalTester.executor": "Run",
+    "Application.org.example.class25.E1.executor": "Run",
+    "Application.org.example.class25.E3.executor": "Run",
+    "Application.org.example.review7.EmployeeTester.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/IronMan/IdeaProjects/SDETJavaBatch19",
+    "onboarding.tips.debug.path": "C:/Users/IronMan/IdeaProjects/SDETJavaBatch19/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "settings.sync"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\IronMan\IdeaProjects\SDETJavaBatch19\Files" />
+      <recent name="C:\Users\IronMan\IdeaProjects\SDETJavaBatch19\src\main\java\org\example\class21" />
+      <recent name="C:\Users\IronMan\IdeaProjects\SDETJavaBatch19\src\main\java\org\example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\IronMan\IdeaProjects\SDETJavaBatch19\src\main\java" />
+      <recent name="C:\Users\IronMan\IdeaProjects\SDETJavaBatch19\src\main\java\org\example\class21" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="my4ProjectJavaOOp" />
+      <recent name="org.example.review10" />
+      <recent name="org.example.class28" />
+      <recent name="org.example.class27" />
+      <recent name="org.example.class25" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.T8_2ArrayList">
+    <configuration name="E1Exception" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.class28.E1Exception" />
+      <module name="SDETJavaBatch19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.class28.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2Exception" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.class28.E2Exception" />
+      <module name="SDETJavaBatch19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.class28.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E3ExcelFile" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.review10.E3ExcelFile" />
+      <module name="SDETJavaBatch19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.review10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T2CountAlpha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my4ProjectJavaOOp.T2CountAlpha" />
+      <module name="SDETJavaBatch19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my4ProjectJavaOOp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T7SplitWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my4ProjectJavaOOp.T7SplitWords" />
+      <module name="SDETJavaBatch19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my4ProjectJavaOOp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T8ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my4ProjectJavaOOp.T8ArrayList" />
+      <module name="SDETJavaBatch19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my4ProjectJavaOOp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T8_2ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my4ProjectJavaOOp.T8_2ArrayList" />
+      <module name="SDETJavaBatch19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my4ProjectJavaOOp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T9NonRepeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my4ProjectJavaOOp.T9NonRepeatingChar" />
+      <module name="SDETJavaBatch19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my4ProjectJavaOOp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.T8_2ArrayList" />
+        <item itemvalue="Application.T2CountAlpha" />
+        <item itemvalue="Application.T9NonRepeatingChar" />
+        <item itemvalue="Application.T8ArrayList" />
+        <item itemvalue="Application.T7SplitWords" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a246e1b5-2ded-4db3-bb02-8483ba4bc0e2" name="Changes" comment="" />
+      <created>1708805397768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708805397768</updated>
+    </task>
+    <task id="LOCAL-00001" summary="unver file">
+      <option name="closed" value="true" />
+      <created>1711912939970</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711912939970</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1711913026507</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711913026507</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1712116575726</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712116575726</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1712184945575</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712184945575</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1712198260184</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712198260184</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1712198277334</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712198277334</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1712411896875</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712411896875</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1712516531332</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712516531332</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1713232797884</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713232797884</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1713232809595</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713232809595</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/org/example/class18/Animal.java&#10;#&#9;src/main/java/org/example/class18/Bird.java&#10;#&#9;src/main/java/org/example/class18/Calculator.java&#10;#&#9;src/main/java/org/example/class18/CalculatorTester.java&#10;#&#9;src/main/java/org/example/class18/GP.java&#10;#&#9;src/main/java/org/example/class18/Parent.java&#10;#&#9;src/main/java/org/example/class18/Programming.java&#10;#&#9;src/main/java/org/example/class18/Task1.java&#10;#&#9;src/main/java/org/example/class18/User.java&#10;#&#9;src/main/java/org/example/class19/Animal.java&#10;#&#9;src/main/java/org/example/class19/Browser.java&#10;#&#9;src/main/java/org/example/class19/BrowserTester.java&#10;#&#9;src/main/java/org/example/class19/BrowserTester2.java&#10;#&#9;src/main/java/org/example/class19/Computer.java&#10;#&#9;src/main/java/org/example/class19/CreditCard.java&#10;#&#9;src/main/java/org/example/class19/Degree.java&#10;#&#9;src/main/java/org/example/class19/Parent.java&#10;#&#9;src/main/java/org/example/class19/Student.java&#10;#&#9;src/main/java/org/example/class19/StudentTester.java">
+      <option name="closed" value="true" />
+      <created>1713233117582</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713233117582</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/org/example/class18/Animal.java&#10;#&#9;src/main/java/org/example/class18/Bird.java&#10;#&#9;src/main/java/org/example/class18/Calculator.java&#10;#&#9;src/main/java/org/example/class18/CalculatorTester.java&#10;#&#9;src/main/java/org/example/class18/GP.java&#10;#&#9;src/main/java/org/example/class18/Parent.java&#10;#&#9;src/main/java/org/example/class18/Programming.java&#10;#&#9;src/main/java/org/example/class18/Task1.java&#10;#&#9;src/main/java/org/example/class18/User.java&#10;#&#9;src/main/java/org/example/class19/Animal.java&#10;#&#9;src/main/java/org/example/class19/Browser.java&#10;#&#9;src/main/java/org/example/class19/BrowserTester.java&#10;#&#9;src/main/java/org/example/class19/BrowserTester2.java&#10;#&#9;src/main/java/org/example/class19/Computer.java&#10;#&#9;src/main/java/org/example/class19/CreditCard.java&#10;#&#9;src/main/java/org/example/class19/Degree.java&#10;#&#9;src/main/java/org/example/class19/Parent.java&#10;#&#9;src/main/java/org/example/class19/Student.java&#10;#&#9;src/main/java/org/example/class19/StudentTester.java">
+      <option name="closed" value="true" />
+      <created>1713324578722</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713324578722</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/org/example/class18/Animal.java&#10;#&#9;src/main/java/org/example/class18/Bird.java&#10;#&#9;src/main/java/org/example/class18/Calculator.java&#10;#&#9;src/main/java/org/example/class18/CalculatorTester.java&#10;#&#9;src/main/java/org/example/class18/GP.java&#10;#&#9;src/main/java/org/example/class18/Parent.java&#10;#&#9;src/main/java/org/example/class18/Programming.java&#10;#&#9;src/main/java/org/example/class18/Task1.java&#10;#&#9;src/main/java/org/example/class18/User.java&#10;#&#9;src/main/java/org/example/class19/Animal.java&#10;#&#9;src/main/java/org/example/class19/Browser.java&#10;#&#9;src/main/java/org/example/class19/BrowserTester.java&#10;#&#9;src/main/java/org/example/class19/BrowserTester2.java&#10;#&#9;src/main/java/org/example/class19/Computer.java&#10;#&#9;src/main/java/org/example/class19/CreditCard.java&#10;#&#9;src/main/java/org/example/class19/Degree.java&#10;#&#9;src/main/java/org/example/class19/Parent.java&#10;#&#9;src/main/java/org/example/class19/Student.java&#10;#&#9;src/main/java/org/example/class19/StudentTester.java">
+      <option name="closed" value="true" />
+      <created>1713324586839</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713324586839</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1713324621257</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713324621257</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1713324627799</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713324627799</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1713324657202</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713324657202</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1713324799916</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713324799916</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1714099408741</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1714099408741</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="unver file" />
+    <MESSAGE value="Updated file" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/org/example/class18/Animal.java&#10;#&#9;src/main/java/org/example/class18/Bird.java&#10;#&#9;src/main/java/org/example/class18/Calculator.java&#10;#&#9;src/main/java/org/example/class18/CalculatorTester.java&#10;#&#9;src/main/java/org/example/class18/GP.java&#10;#&#9;src/main/java/org/example/class18/Parent.java&#10;#&#9;src/main/java/org/example/class18/Programming.java&#10;#&#9;src/main/java/org/example/class18/Task1.java&#10;#&#9;src/main/java/org/example/class18/User.java&#10;#&#9;src/main/java/org/example/class19/Animal.java&#10;#&#9;src/main/java/org/example/class19/Browser.java&#10;#&#9;src/main/java/org/example/class19/BrowserTester.java&#10;#&#9;src/main/java/org/example/class19/BrowserTester2.java&#10;#&#9;src/main/java/org/example/class19/Computer.java&#10;#&#9;src/main/java/org/example/class19/CreditCard.java&#10;#&#9;src/main/java/org/example/class19/Degree.java&#10;#&#9;src/main/java/org/example/class19/Parent.java&#10;#&#9;src/main/java/org/example/class19/Student.java&#10;#&#9;src/main/java/org/example/class19/StudentTester.java" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/class1/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/class4/E2IfElseIf.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/class4/HWIfElseIfMonths.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mytesting/ScannerFirstLastNames.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/review3/E7LogicalNot.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/class5/E1Scanner.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zproject3/Task7.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/class4/HWIfElseIfEvenOdd.java</url>
+          <line>3</line>
+          <properties class="org.example.class4.HWIfElseIfEvenOdd" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/class4/E7Scanner.java</url>
+          <line>5</line>
+          <properties class="org.example.class4.E7Scanner" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/mytesting/NestedForLoops2.java</url>
+          <line>5</line>
+          <properties class="mytesting.NestedForLoops2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/class7/Task2.java</url>
+          <line>3</line>
+          <properties class="org.example.class7.Task2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/class7/Task5.java</url>
+          <line>3</line>
+          <properties class="org.example.class7.Task5" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SDETJavaBatch19$E1Exception.ic" NAME="E1Exception Coverage Results" MODIFIED="1714251755386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.example.class28.*</FILTER>
+    </SUITE>
+  </component>
+</project>
